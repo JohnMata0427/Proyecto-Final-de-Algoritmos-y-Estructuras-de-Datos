@@ -1,0 +1,16 @@
+				   ESCUELA DE FORMACION DE TECNOLOGOS
+					BUSQUEDA DE ESTUDIANTE(S)
+
+A�o/Semestre: 21
+Materia: dasdas
+
+Estudiante buscado por su total de: 3
+Algoritmo de busqueda escogido: Interpolation Search
+
+N�	Nombre		Apellido	Correo				Nota 1	Nota 2	Total
+2	dasdadas	sdas		dasdas				3.0	3.0	3.0
+
+					da
+						Docente
+						ESFOT
+						     dsadas

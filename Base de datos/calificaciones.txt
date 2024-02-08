@@ -1,0 +1,23 @@
+				   ESCUELA DE FORMACION DE TECNOLOGOS
+					REPORTE DE CALIFACIONES
+
+Año/Semestre: Semestre
+Materia: Algoritmos
+
+N°	Nombre		Apellido	Correo				Nota 1	Nota 2	Total
+1	dasdasd		dsadas		dasdasda			2.0	1.0	1.5
+2	dasdsa		dasd		dasdasdasdas			4.0	5.0	4.5
+3	dasdas		dasda		dsadas				2.0	3.0	2.5
+
+
+RESUMEN
+
+Promedio del Curso: 2.83
+Estudiantes Aprobados (14 - 20): 0
+Estudiantes Suspensos (09 - 13): 0
+Estudiantes Reprobados (01 - 08): 3
+
+						dsadas
+							Docente
+							ESFOT
+						     dasdsa
